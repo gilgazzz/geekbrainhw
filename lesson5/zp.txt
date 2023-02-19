@@ -1,0 +1,4 @@
+Petrov 12000
+Popov 7000
+Milos 3000
+Vanroman 300
